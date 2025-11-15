@@ -55,7 +55,7 @@ Localizada em: `./RoBERTa_FLANT5/script.ipynb`
 
 ------------------------------------------------------------------------
 
-## ▶️ Como Executar
+## Como Executar
 
 Toda a execução é feita **no Google Colab**.
 
