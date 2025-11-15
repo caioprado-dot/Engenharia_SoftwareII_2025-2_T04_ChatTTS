@@ -1,0 +1,31 @@
+{
+  "projeto_analisado": "2noise/ChatTTS",
+  "data_analise": "15/11/2025 23:02",
+  "equipe": [
+    "Seu_Nome",
+    "Outro_Membro",
+    "Terceiro_Membro"
+  ],
+  "total_arquivos": 139,
+  "arquivos_documentacao": 70,
+  "arquivos_codigo": 68,
+  "arquivos_configuracao": 1,
+  "modelos_utilizados": [
+    "DistilBERT",
+    "BERT-NER",
+    "CodeBERT"
+  ],
+  "distilbert_analises_sucesso": "71/71",
+  "distilbert_qualidade_media": 0.06408600313821051,
+  "distilbert_keywords_medio": 0.5211267605633803,
+  "ner_entidades_total": 86,
+  "ner_analises_sucesso": "71/71",
+  "ner_padrao_principal": "MVC (Model-View-Controller) (71x)",
+  "codebert_arquivos_com_padroes": "55/68",
+  "codebert_confianca_media": 0.18727272727272723,
+  "codebert_top_padroes": {
+    "Event-Driven Architecture": 53,
+    "Layered Architecture": 31,
+    "Procedural Architecture": 16
+  }
+}

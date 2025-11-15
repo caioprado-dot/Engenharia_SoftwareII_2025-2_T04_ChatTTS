@@ -1,0 +1,4 @@
+Modelo,Efetividade,Pontos Fortes,Limitações,Recomendação
+DistilBERT,BAIXA,"Análise de qualidade textual, rápido, bom para documentação","Não analisa código diretamente, depende da qualidade do texto",Excelente para análise inicial de documentação
+BERT-NER,ALTA,"Extrai entidades técnicas específicas, identifica componentes",Precisa de pós-processamento para inferir padrões,Ótimo para identificar elementos arquiteturais específicos
+CodeBERT,MÉDIA,"Análise direta do código, detecta padrões estruturais","Mais lento, requer mais recursos computacionais",Essencial para análise de código fonte
