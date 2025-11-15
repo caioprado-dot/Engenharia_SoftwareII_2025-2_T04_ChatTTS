@@ -1,27 +1,27 @@
 # Análise Arquitetural do ChatTTS
 ## Autores
-01 - Filippi Reis Menezes - 202300027230
-02 - Jackson Santana Carvalho Júnior - 202300027365
-03- Gabriel Bastos Pimentel - 202300061590
-04- Marcos Vinícius Dantas Aguiar - 201800084345
-05- Caio Victor Prado Cruz - 202100011234
-06- Yan Victor Araujo do Nascimento - 202100046006
-07- Leonardo de Souza Aragão - 202200117002
-08 - Vênisson Cardoso Dos Santos – 201700063182
+- Filippi Reis Menezes - 202300027230
+- Jackson Santana Carvalho Júnior - 202300027365
+- Gabriel Bastos Pimentel - 202300061590 
+- Marcos Vinícius Dantas Aguiar - 201800084345
+- Caio Victor Prado Cruz - 202100011234
+- Yan Victor Araujo do Nascimento - 202100046006
+- Leonardo de Souza Aragão - 202200117002
+- Vênisson Cardoso Dos Santos – 201700063182
 
 Contribuição:
 Responsáveis pelos modelos DistilBERT, BERT-NER, CodeBERT:
-01 - Filippi Reis Menezes certo 
-02 - Jackson Santana Carvalho Júnior
-03- Gabriel Bastos Pimentel
-04- Marcos Vinícius Dantas Aguiar certo 
-05- Caio Victor Prado Cruz
-08 - Vênisson Cardoso Dos Santos
+- Filippi Reis Menezes certo 
+- Jackson Santana Carvalho Júnior
+- Gabriel Bastos Pimentel
+- Marcos Vinícius Dantas Aguiar certo 
+- Caio Victor Prado Cruz
+- Vênisson Cardoso Dos Santos
 
 
 Responsáveis pelos modelos Flan-T5 Base e RoBERTa Sentiment:
-06- Yan Victor Araujo do Nascimento
-07- Leonardo de Souza Aragão
+- Yan Victor Araujo do Nascimento
+- Leonardo de Souza Aragão
 
 ## Introdução
 **DistilBERT/BERT-NER/CodeBERT + RoBERTa + FLAN-T5**
