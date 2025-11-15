@@ -29,7 +29,7 @@ Responsáveis pelos modelos Flan-T5 Base e RoBERTa Sentiment:
 
 Este repositório contém o código, artefatos e documentação utilizados
 para realizar **duas análises arquiteturais independentes** do projeto
-**ChatTTS** (modelo de text-to-speech open-source).\
+**ChatTTS** (modelo de text-to-speech open-source)(https://github.com/2noise/ChatTTS).\
 A análise foi implementada em **notebooks Python executados no Google
 Colab**, utilizando diferentes modelos da Hugging Face (DistilBERT + BERT-NER + CodeBERT,RoBERTa + FLAN-T5) aplicados a arquivos do repositório original.
 
@@ -44,6 +44,7 @@ Colab**, utilizando diferentes modelos da Hugging Face (DistilBERT + BERT-NER + 
     ├── RoBERTa_FLANT5/
     │   └── script.ipynb            → Pipeline 2
     │
+    ├── [nome_dos_integrantes].pdf -> tutorial escrito
     └── README.md  ← este arquivo
 
 ------------------------------------------------------------------------
@@ -82,7 +83,7 @@ Localizada em: `./RoBERTa_FLANT5/script.ipynb`
 
 ## Como Executar
 
-Toda a execução é feita **no Google Colab**.
+Toda a execução é feita **no Google Colab** utilizando o plano Free(gratuito).
 
 ### **1. Abrir o Colab**
 
