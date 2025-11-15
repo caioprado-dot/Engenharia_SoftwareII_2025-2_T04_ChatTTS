@@ -95,26 +95,16 @@ Ou abra diretamente pelo Google Drive.
 
 ------------------------------------------------------------------------
 
-### **2. Instalar dependências**
+### **2. Executar o notebook**
 
-Cada notebook possui células iniciais que instalam as libs necessárias,
-mas é possível instalar manualmente com:
-
-``` bash
-pip install -r requirements.txt
-```
-
-------------------------------------------------------------------------
-
-### **3. Executar o notebook**
-
-Basta clicar no botão "Run all" do colab para que as células fazem 
+Basta clicar no botão "Run all" do colab para que as células que fazem os
 passos a seguir sejam executadas:
 
-1.  Baixar arquivos do ChatTTS pelo GitHub API.\
-2.  Processar os dados e gerar datasets intermediários.\
-3.  Rodar inferência nos modelos.\
-4.  Exportar outputs para `results/`.
+1.  Instalar dependências\
+2.  Baixar arquivos do ChatTTS pelo GitHub API.\
+3.  Processar os dados e gerar datasets intermediários.\
+4.  Rodar inferência nos modelos.\
+5.  Exportar outputs para `results/`.
 
 Os resultados são reproduzíveis desde que o ambiente Colab seja mantido
 com as versões indicadas.
