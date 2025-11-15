@@ -10,6 +10,7 @@
 - Vênisson Cardoso Dos Santos – 201700063182
 
 Contribuição:
+
 Responsáveis pelos modelos DistilBERT, BERT-NER, CodeBERT:
 - Filippi Reis Menezes certo 
 - Jackson Santana Carvalho Júnior
